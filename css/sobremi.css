@@ -1,0 +1,55 @@
+.sobremi{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    background-image: linear-gradient(to bottom, #768798, #a9bacb);
+}
+
+.sobremi-container{
+    width: 90%;
+    padding: 32px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.sobremi-titulo{
+    color: #ffcc24;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-shadow: 0 0 10px black;
+}
+
+.sobremi-parrafo{
+    margin-top: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    color: whitesmoke;
+    line-height: 20px;
+}
+
+.sobremi-firma{
+    margin-top: 3rem;
+    width: 20%;
+    height: 20%;
+    border-radius: 40%;
+    
+}
+
+@media screen and (max-width:768px) {
+
+    .sobremi-container{
+        width: 100%;
+        padding: 10px;
+    }
+
+    .sobremi-firma{
+        width: 40%;
+        height: 40%;
+        border-radius: 10px;
+        margin: 20px auto;
+    }
+}

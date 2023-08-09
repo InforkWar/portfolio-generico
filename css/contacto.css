@@ -91,6 +91,7 @@
 
 .flecha-enlace {
     position: fixed; /* Permanecerá en la misma posición mientras se desplaza la página */
+    width: fit-content;
     bottom: 10px;
     right: 20px;
     z-index: 1000; /* Para asegurarse de que la flecha esté encima de otros elementos */
@@ -98,6 +99,8 @@
     border-radius: 50%;
     box-shadow: 0px 0px 10px 5px grey;
 }
+
+
 
 .flecha-enlace img {
     width: 50px; /* Ajusta el tamaño según tus necesidades */
@@ -155,8 +158,8 @@
     }
 
     .flecha-enlace{
-        bottom: 25px;
-        right: 10px;
+        bottom: 10px;
+        left: 10px;
     }
 
     .flecha-enlace img{

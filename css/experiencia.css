@@ -91,10 +91,12 @@
 }
 
 .boton:hover{
-    color: grey;
-    background-color: black;
-    border: 2px solid rgb(121, 119, 119);
-    
+    color: orangered;
+    background-color: #b88a2e;
+    text-shadow: 2px 2px 4px black;
+    border-color: orangered;
+    font-weight: 700;
+    transform: scale3d(1.1, 1.1, 1.1);
 }
 
 @media screen and (max-width:768px) {

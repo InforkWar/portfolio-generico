@@ -1,3 +1,3 @@
 # portfolio-generico
 
-https://inforkwar.github.io/portfolio-gen/
+https://inforkwar.github.io/portfolio-generico/

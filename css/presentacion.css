@@ -31,7 +31,7 @@
 .presentacion-parrafo{
     color: #f6f6f6;
     font-family: 'Raleway', sans-serif;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 700;
     line-height: 30px;
     margin-bottom: 10px;
@@ -47,8 +47,8 @@
     border-radius: 50%;
     width: 20%;
     height: 10%;
-    margin-top: 20px;
-    
+    margin: 20px;
+    margin-top: 40px;
     box-shadow: 0px 0px 30px rgb(233, 217, 99);
 }
 

@@ -45,7 +45,7 @@
 
 .presentacion-img{
     border-radius: 50%;
-    width: 30%;
+    width: 20%;
     height: 10%;
     margin-top: 20px;
     
@@ -76,5 +76,6 @@
     .presentacion-img{
         order: -1;
         margin-bottom: 20px;
+        width: 30%;
     }
 }

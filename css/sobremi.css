@@ -35,7 +35,7 @@
     margin-top: 3rem;
     width: 20%;
     height: 20%;
-    border-radius: 40%;
+    border-radius: 10px;
     
 }
 
@@ -44,6 +44,10 @@
     .sobremi-container{
         width: 100%;
         padding: 10px;
+    }
+
+    .sobremi-titulo{
+        text-align: center;
     }
 
     .sobremi-firma{
